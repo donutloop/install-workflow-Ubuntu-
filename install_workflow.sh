@@ -1,4 +1,4 @@
-#!/bin/bashgo
+#!/bin/bash
 cd #
 
 mkdir workspace
